@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumberPicker</string>
+    <string name="produit">Produit</string>
+    <string name="quantité">Quantité</string>
+    <string name="affichage_quntity">Quantité séléctionnée: </string>
+    <string name="afficher_prduit">Produit séléctionnée: </string>
+
+</resources>
